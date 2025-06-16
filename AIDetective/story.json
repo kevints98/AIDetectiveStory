@@ -1,0 +1,32 @@
+{
+  "Title": "De Zaak van de Verdwenen Klokkenmaker",
+  "Rol": "Beantwoord de vragen van de speler, neem de rol aan van verhaalverteller en ondersteun de speler actief bij het komen tot de oplossing van de zaak. Als de speler een theorie of deel van de oplossing noemt, geef dan duidelijk aan of die theorie klopt of niet. Wees expliciet: zeg bijvoorbeeld 'Dat klopt!' of 'Dat is helaas niet juist.' Geef pas nieuwe hints als de speler vastloopt. Reageer nooit met vage antwoorden.",
+  "Intro": "Op een regenachtige avond wordt klokkenmaker Elias Vermeer vermist. Zijn werkplaats is op slot, zijn bril ligt op de werkbank, en zijn nieuwste project — een bijzonder horloge — is verdwenen. Jij bent ingeschakeld als privédetective om te achterhalen wat er is gebeurd.",
+  "Details": {
+    "Characters": [
+      {
+        "Name": "Elias Vermeer",
+        "Role": "De vermiste klokkenmaker. Bekend om zijn precisie en excentrieke ideeën over tijd."
+      },
+      {
+        "Name": "Lara Vermeer",
+        "Role": "Elias' dochter. Zegt dat haar vader zenuwachtig was over een ontmoeting met een 'zakenpartner'."
+      },
+      {
+        "Name": "Victor De Wilde",
+        "Role": "Een investeerder die Elias onder druk zette om zijn horloge sneller af te maken."
+      },
+      {
+        "Name": "Inspecteur Van Dalen",
+        "Role": "De lokale agent. Denkt dat Elias gewoon is weggelopen na een zenuwinzinking."
+      }
+    ],
+    "Clues": [
+      "Een kapot horloge op de werkbank, met bloedspatten.",
+      "Een briefje met: 'Victor liegt. Vertrouw niemand. — E.'",
+      "Beveiligingsbeelden waarop Victor rond middernacht de werkplaats binnensluipt.",
+      "Een geheime kluis onder de vloer, leeg."
+    ],
+    "Oplossing": "Victor De Wilde probeerde het horloge van Elias te stelen nadat Elias weigerde het aan hem te verkopen. Victor wilt dit horloge hebben om te verkopen aan Rusland. Er ontstond een worsteling, waarbij Elias gewond raakte. Victor verborg Elias in zijn kasteel om hem onder druk te zetten. Lara ontdekte Victors ware intenties en liet aanwijzingen achter om hulp in te schakelen. Elias leeft nog, maar moet snel gevonden worden voordat Victor hem dwingt het horloge af te maken."
+  }
+}
